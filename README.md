@@ -1,6 +1,4 @@
 
-*   🌍  Russia, Barnaul 
-----------------------
 ### lang's & tools 
 
 <p align="left">
@@ -11,9 +9,6 @@
 ### other
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://telegra.ph/file/5df9b5bbda49399226978.png" width="36" height="36" alt="Jira" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a></p>
-
-### links
-<a href="https://linktr.ee/v1tharr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a></p>
 
 ### stats
 
