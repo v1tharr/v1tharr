@@ -12,4 +12,4 @@
 
 ### stats
 
-<a href="https://github.com/v1tharr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tharr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/v1tharr" align="left"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maybe707&layout=compact&langs_count=8&card_width=320&theme=tokyonight&show_icons=true" /></a>
