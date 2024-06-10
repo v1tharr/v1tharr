@@ -12,4 +12,4 @@
 
 ### stats
 
-<a href="https://github.com/v1tharr" align="left"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?v1tharr=anuraghazra&hide_progress=true" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1tharr)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/v1tharr/v1tharr))
