@@ -12,4 +12,4 @@
 
 ### stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1tharr)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/v1tharr/v1tharr))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1tharr&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/v1tharr/v1tharr))
