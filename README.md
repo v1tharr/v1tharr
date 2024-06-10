@@ -12,4 +12,4 @@
 
 ### stats
 
-<a href="https://github.com/v1tharr" align="left"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v1tharr&layout=compact&langs_count=8&card_width=320&theme=tokyonight&show_icons=true" /></a>
+<a href="https://github.com/v1tharr" align="left"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?v1tharr=anuraghazra&hide_progress=true" /></a>
