@@ -12,6 +12,7 @@
         <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" alt="bash" width="40" height="40"/>
     </a>
     </a>
+    <a href="https://www.iso.org/standard/76583.html" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/>
     </a>
     </a>
