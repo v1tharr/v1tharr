@@ -23,6 +23,6 @@
 
 <p align="center">
   <a href="https://github.com/v1tharr?tab=repositories">
-    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=v1tharr&layout=compact&langs_count=8&card_width=320&theme=tokyonight&show_icons=true" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=v1tharr&layout=compact&langs_count=8&card_width=320&theme=tokyonight&show_icons=true" />
   </a>
 </p>
